@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "Lifting Equipment & OHS Engineering Advisor",
+    "shortTitle": "Lifting Advisor",
+    "subtitle": "Offline Engineering Field Portal for Heavy Industry, Shipyards & Rigging",
+    "version": "v1.0.0 (Industrial Edition)",
+    "offlineBadge": "Offline Mode (Fully Functional)",
+    "onlineBadge": "Online (AI Enabled)",
+    "offlineNotice": "Your device is offline. All local engineering calculations, standards, and encyclopedias are 100% operational. AI features require network connection."
+  },
+  "nav": {
+    "encyclopedia": {
+      "title": "Equipment Encyclopedia",
+      "short": "Encyclopedia",
+      "desc": "Selection, Operation, Maintenance, Storage & Failure Analysis"
+    },
+    "calculator": {
+      "title": "Engineering Calculator",
+      "short": "Calculator",
+      "desc": "WLL, Sling Angle Factors, D/d Ratio, CoG & Clamp Geometry"
+    },
+    "standards": {
+      "title": "Codes & Standards Guide",
+      "short": "Standards",
+      "desc": "EN, ISO, ASME & Global OHS Regulatory Compendium"
+    },
+    "aiConsultant": {
+      "title": "AI Lifting Consultant",
+      "short": "AI Advisor",
+      "desc": "AI-Powered Scenario Verification & Defect Inspection"
+    },
+    "exportCenter": {
+      "title": "Export & Reports",
+      "short": "Export",
+      "desc": "Compile Session Outputs and Download Rigging Briefs"
+    }
+  },
+  "roles": {
+    "seller": "Equipment Distributor / Supplier",
+    "endUser": "End User / Plant Manager",
+    "inspector": "Periodic Inspection Surveyor",
+    "ohsSpecialist": "OHS (Health & Safety) Officer",
+    "rigger": "Field Operator / Certified Rigger"
+  },
+  "sectors": {
+    "heavyIndustry": "Heavy Manufacturing",
+    "foundry": "Foundry & Metallurgy",
+    "construction": "Construction & Infrastructure",
+    "shipyard": "Shipyard & Maritime",
+    "energy": "Energy & Wind Power",
+    "logistics": "Logistics & Port Operations"
+  },
+  "common": {
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "calculate": "Calculate",
+    "export": "Export",
+    "exportPdf": "Export PDF Report",
+    "exportJson": "Download JSON",
+    "exportMarkdown": "Copy as Markdown",
+    "copied": "Copied!",
+    "reset": "Reset",
+    "search": "Search equipment, standards, or formulas...",
+    "filter": "Filter",
+    "viewDetails": "View Details",
+    "safetyWarning": "CAUTION: OHS Safety Warning",
+    "dangerNotice": "CRITICAL FLAW / DISCARD CRITERIA",
+    "langTr": "Türkçe",
+    "langEn": "English"
+  }
+}

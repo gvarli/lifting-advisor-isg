@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "Kaldırma Ekipmanları & İSG Mühendislik Danışmanı",
+    "shortTitle": "Kaldırma Danışmanı",
+    "subtitle": "Ağır Sanayi, Tersane ve Şantiye İçin Çevrimdışı Mühendislik Portalı",
+    "version": "v1.0.0 (Endüstriyel Sürüm)",
+    "offlineBadge": "Çevrimdışı Mod (Tam Fonksiyonel)",
+    "onlineBadge": "Çevrimiçi (AI Aktif)",
+    "offlineNotice": "Cihazınız çevrimdışı. Tüm lokal hesaplamalar, standartlar ve ansiklopedi %100 çalışmaktadır. AI asistanı internet bağlantısı beklemektedir."
+  },
+  "nav": {
+    "encyclopedia": {
+      "title": "Ekipman Ansiklopedisi",
+      "short": "Ansiklopedi",
+      "desc": "Seçim, Kullanım, Bakım, Muhafaza ve Hata Analizi"
+    },
+    "calculator": {
+      "title": "Hesaplama Motoru",
+      "short": "Hesaplama",
+      "desc": "WLL, Sapan Açıları, D/d Oranı, CoG ve Klemens Hesapları"
+    },
+    "standards": {
+      "title": "Mevzuat & Standartlar",
+      "short": "Standartlar",
+      "desc": "EN, ISO, ASME ve Türkiye İSG Mevzuat Kılavuzu"
+    },
+    "aiConsultant": {
+      "title": "AI Kaldırma Danışmanı",
+      "short": "AI Danışman",
+      "desc": "Yapay Zeka Destekli Senaryo ve Hata Denetimi"
+    },
+    "exportCenter": {
+      "title": "Çıktı & Aktarım",
+      "short": "Rapor/Çıktı",
+      "desc": "Oturum Verilerini ve Saha Raporlarını Dışa Aktar"
+    }
+  },
+  "roles": {
+    "seller": "Ekipman Satıcısı / Tedarikçi",
+    "endUser": "Son Kullanıcı / Firma Yetkilisi",
+    "inspector": "Periyodik Kontrol Uzmanı",
+    "ohsSpecialist": "İş Güvenliği (İSG) Uzmanı",
+    "rigger": "Saha Operatörü / Sapancı"
+  },
+  "sectors": {
+    "heavyIndustry": "Ağır Sanayi",
+    "foundry": "Dökümhane & Metalurji",
+    "construction": "İnşaat & Altyapı",
+    "shipyard": "Tersane & Denizcilik",
+    "energy": "Enerji & Rüzgar Türbinleri",
+    "logistics": "Lojistik & Liman Operasyonları"
+  },
+  "common": {
+    "close": "Kapat",
+    "back": "Geri",
+    "next": "İleri",
+    "calculate": "Hesapla",
+    "export": "Dışa Aktar",
+    "exportPdf": "PDF Rapor Al",
+    "exportJson": "JSON İndir",
+    "exportMarkdown": "Markdown Olarak Kopyala",
+    "copied": "Kopyalandı!",
+    "reset": "Sıfırla",
+    "search": "Ekipman, standart veya formül ara...",
+    "filter": "Filtrele",
+    "viewDetails": "Detayları İncele",
+    "safetyWarning": "DİKKAT: İSG Güvenlik Uyarısı",
+    "dangerNotice": "KRİTİK HATA / ISKARTA KRİTERİ",
+    "langTr": "Türkçe",
+    "langEn": "English"
+  }
+}
